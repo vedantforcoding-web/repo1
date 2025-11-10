@@ -1,2 +1,2 @@
 # repo1
-there are two tries made by me...i guess you will like it!!!
+A brief description of what this project does and who it's for It is actually my try for making a assistant which can help you in evry way possible but for now it is my trial of all learining....:D
